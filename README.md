@@ -27,4 +27,3 @@ This project is licensed under the MIT License.
 ** Hat tip to anyone whose code was used
 * [Coder's Tape](https://twitter.com/CodersTape)
 
-## TESTE
